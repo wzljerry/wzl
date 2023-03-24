@@ -6,7 +6,7 @@ subtitle: <a href='#'>Ph.D. Student in the Department of Computer & Information 
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image:profile_image.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>276 Innovation Hall</p>

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Ph.D. Student in the Department of Computer & Information Science at Purdue University, Indianapolis</a>. Address. Contacts. Moto. Etc.
+%subtitle: <a href='#'>Ph.D. Student in the Department of Computer & Information Science at Purdue University, Indianapolis</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right

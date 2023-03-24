@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wzljerry.github.wzl.io/sitemap.xml
+Sitemap: https://wzl.github.io/sitemap.xml

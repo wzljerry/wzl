@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-03
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper, Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning, was accepetd to IEEE Transactions on Parallel and Distributed Systems (**JCR Q1, CCF A**)!
